@@ -1,2 +1,2 @@
 # bike-sharing-dashboard
-dashboard analisis penewaan sepeda
+dashboard analisis penyewaan sepeda
